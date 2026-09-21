@@ -6,6 +6,7 @@ def main():
     print("=== Test Archeo Project ===")
     print(f"Cantiere attivo: {cantiere}")
     print(f"Totale US registrate: {len(unita_presenti)}")
+    print("=== modifica di prova ===")
 
 if __name__ == "__main__":
     main()
